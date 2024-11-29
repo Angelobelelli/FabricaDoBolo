@@ -1,0 +1,108 @@
+{
+  "usuarios": [
+    {
+      "id": "1",
+      "nome": "Andre",
+      "email": "docemel@sodoce.com.br",
+      "senha": "brigadeiro123"
+    },
+    {
+      "id": "e60a",
+      "nome": "maria",
+      "email": "maria@gmail.com",
+      "senha": "maria"
+    },
+    {
+      "id": "3605",
+      "nome": "matheus",
+      "email": "matheus@gmail.com",
+      "senha": "matheus"
+    },
+    {
+      "id": "ffe5",
+      "nome": "angelo",
+      "email": "angelo@gmail.com",
+      "senha": "angelo"
+    },
+    {
+      "id": "a644",
+      "nome": "Angelo",
+      "email": "angelobjones@gmail.com",
+      "senha": "130444eb"
+    },
+    {
+      "id": "9752",
+      "nome": "Janaina",
+      "email": "an@gmail.com",
+      "senha": "130444"
+    },
+    {
+      "id": "b58c",
+      "nome": "Angelo",
+      "email": "a@gmail.com",
+      "senha": "angelo"
+    }
+  ],
+  "produtos": [
+    {
+      "nome": "Cassata",
+      "preco": "70",
+      "tipo": "Torta",
+      "imagemUrl": "https://anamariareceitas.com.br/wp-content/uploads/2022/10/Pave-cassata.jpg",
+      "id": "bcf4"
+    },
+    {
+      "nome": "Bolo de Aniversario ",
+      "preco": "60",
+      "tipo": "Bolo",
+      "imagemUrl": "https://dcdn.mitiendanube.com/stores/001/364/150/products/131-96db985295a5303ae516197932865819-1024-1024.png",
+      "id": "c338"
+    },
+    {
+      "nome": "Bolo do Fortnite",
+      "preco": "100",
+      "tipo": "Bolo",
+      "imagemUrl": "https://insightstotal.com.br/wp-content/uploads/2024/02/image-737-957x1024.png",
+      "id": "5e8d"
+    },
+    {
+      "nome": "Bolo de cenoura",
+      "preco": "11",
+      "tipo": "Bolo",
+      "imagemUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcjjSGZ2hSp0SmPL3huW_J79OGNwVA0LuxoQ&s",
+      "id": "045f"
+    },
+    {
+      "nome": "Doce de Leite",
+      "preco": "20",
+      "tipo": "Doce",
+      "imagemUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS89HQwCarKCZJ757MslUFLDQPUaQ-7hU-J_g&s",
+      "id": "9081"
+    },
+    {
+      "id": "9931",
+      "nome": "Torta holandesa",
+      "tipo": "Torta",
+      "preco": "51",
+      "imagemUrl": "https://static.itdg.com.br/images/1200-675/d67039c3ae791ed32e8d2912251c9495/312799-original-1-2-.jpg"
+    }
+  ],
+  "tipo": [
+    {
+      "id": "1",
+      "nome": "Bolo"
+    },
+    {
+      "id": "2",
+      "nome": "Torta"
+    },
+    {
+      "id": "3",
+      "nome": "Bebida"
+    },
+    {
+      "id": "5",
+      "nome": "Doce"
+    }
+  ]
+}
